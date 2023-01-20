@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+.header{
+    background-color: bisque;
+    background-image: url(../images/logo/tiger.png);
+    background-repeat: no-repeat;
+    background-position: left bottom,center;
+    background-size: 100%;
+}
+.title{
+    font-weight: 800px;
+    font-size: 50px;
+    text-align: center;
+    margin: 50px;
+}
+.sub-title{
+      
+}
+ul ,li{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+
+}
+.baner{
+    margin-top: 20px;
+    /* margin-left: 200px; */
+    text-align: center;
+
+}
+img{
+    width: 500px;
+    margin-top: 800px;
+    margin-left: 70%;
+    margin-bottom: 400px;
+    background-image: url(../images/logo/download.png);
+}
